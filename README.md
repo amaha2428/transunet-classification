@@ -206,11 +206,11 @@ Also requires cloning [TransUNet](https://github.com/Beckschen/TransUNet) — do
 If you use this work, please cite:
 
 ```bibtex
-@misc{transunet-classification-2025,
+@misc{amaha2026transunet,
   title  = {TransUNet for Medical Image Classification: Adapting Vision Transformers from Segmentation to Classification},
-  author = {[Your Name]},
-  year   = {2025},
-  url    = {https://github.com/[your-username]/transunet-classification}
+  author = {Amaha, Godspower O.},
+  year   = {2026},
+  url    = {https://github.com/amaha2428/transunet-classification}
 }
 ```
 
